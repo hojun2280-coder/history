@@ -1,6 +1,6 @@
 # World Story Illustrator
 
-[![Open in IDX](https://cdn.idx.dev/btn/open.svg)](https://idx.google.com/import?url=https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+[![Open in IDX](https://cdn.idx.dev/btn/open.svg)](https://idx.google.com/import?url=https://github.com/hojun2280-coder/history)
 
 > **Note**: To use the "Open in IDX" button, please push this project to a public GitHub repository first, then update the link above with your repository URL. (세계사 프롬프트 메이커)
 
