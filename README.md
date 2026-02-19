@@ -1,8 +1,8 @@
 # World Story Illustrator
 
-[![Open in IDX](https://cdn.idx.dev/btn/open.svg)](https://idx.google.com/import?url=https://github.com/hojun2280-coder/history)
+[![Open in IDX](https://cdn.idx.dev/btn/open.svg)](https://idx.google.com/import?url=https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
 
-> **Note**: To use the "Open in IDX" button, please push this project to a public GitHub repository first. (세계사 프롬프트 메이커)
+> **Note**: To use the "Open in IDX" button, please push this project to a public GitHub repository first, then update the link above with your repository URL. (세계사 프롬프트 메이커)
 
 AI를 활용해 세계사 스토리보드를 제작하는 웹 애플리케이션입니다.
 
