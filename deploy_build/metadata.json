@@ -1,0 +1,5 @@
+{
+  "name": "[한국사 프롬프트 메이커]",
+  "description": "A professional tool to convert Korean scripts into consistent image storyboards using Gemini Nano Banana and Pro models.",
+  "requestFramePermissions": []
+}
