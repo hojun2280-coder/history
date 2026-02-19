@@ -49,3 +49,4 @@ npm run dev
 2. [Project IDX](https://idx.google.com)에 접속합니다.
 3. "Import a repo"를 선택하고 본인의 저장소를 입력합니다.
 4. 프로젝트가 열리면 자동으로 환경이 설정됩니다.
+# history
